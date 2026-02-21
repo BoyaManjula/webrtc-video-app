@@ -20,12 +20,6 @@ This project enables peer-to-peer video communication with real-time chat and si
 - Socket.IO
 - CORS
 
-### Deployment
-- Backend: Railway
-- Frontend: Netlify
-
----
-
 ## 📌 Features
 
 - 🎥 Real-time Video Calling (WebRTC)
@@ -52,8 +46,6 @@ This project enables peer-to-peer video communication with real-time chat and si
 ---
 
 ## 📂 Project Structure
-
-### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/BoyaManjula/webrtc-video-app.git
